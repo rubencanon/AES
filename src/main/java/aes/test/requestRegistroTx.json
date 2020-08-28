@@ -1,0 +1,14 @@
+{
+  "deviceId": "0f8483b845c3f57b::SM-AVRL123",
+  "keyProcess": "CODACT",
+  "systemVersion": "ANDROID 9::4.14.85-17063867 - G975FXXS3ASJG - 28",
+  "macID": "02:00:00:00:00:00",
+  "codeLicenseIdemia": "4276b9a67a8f5c495f17aff65cbdb5b3a0296e65b48f833d11eb21869d33fe33",
+  "c1": "354651103602761",
+  "c2": "C2",
+  "c3": "C3",
+   "initVector": "pKaPdSFFkYp2sMvl",
+   "versionApp": "1.0.2",
+    "token": "c895b79d-c1e4-4978-aa26-bea7cabaf67f"
+   
+}
